@@ -1,4 +1,4 @@
-# face_recognition.py - Detects captured faces
+
 import cv2
 import os
 import numpy as np
